@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **jetpack compose, MVVM**
 
-- 💬 Ask me about **Android Development, Xml, Kotlin, Restful Api**
+- 💬 Ask me about **Android Development, Xml, Kotlin**
 
 - 📫 How to reach me **kumarhemant9971@gmail.com**
 
