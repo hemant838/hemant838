@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently studying **Computer science engineering**
 
-- 🌱 I’m currently learning **jetpack compose, MVVM**
+- 🌱 I’m currently learning **Deployment and server Management**
 
-- 💬 Ask me about **Android Development, Xml, Kotlin**
+- 💬 Ask me about **React , Javascript , Docker , Aws , Expressjs , Tailwind Css , Configuration Management**
 
 - 📫 How to reach me **kumarhemant9971@gmail.com**
 
